@@ -3,7 +3,7 @@
 ## Description
 Kafka plugin for [eggjs](https://eggjs.org/)
 
-Wrapper for 'npm kafka-node', fork from 'npm egg-kafka'
+Just a wrapper of [kafka-node](https://github.com/SOHU-Co/kafka-node), and fork from [egg-kafka](https://github.com/ntfs32/egg-kafka)
 
 ## Install
 So far, this plugin is not publish to npm yet, user need to download the source code from git, then:
